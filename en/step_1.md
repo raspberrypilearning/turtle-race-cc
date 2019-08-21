@@ -1,58 +1,39 @@
 ## Introduction
 
-Add project description here. What will learners be making?
+Use loops to draw a race track and create a racing turtle game.
 
 ### What you will make
 
---- no-print ---
-Add instructions for using the embedded content here.
+This project introduces for loops through a fun turtle race game. Loops are used to draw the race track and to make the turtles move a random number of steps each turn. If you have a group of people to play the game, each person pick a turtle and the one that gets the furthest is the winner.
 
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
+<div class="trinket">
+  <iframe src="https://trinket.io/embed/python/9339862606?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
+  </iframe>
+  <img src="images/race-finished.png">
 </div>
---- /no-print ---
 
---- print-only ---
-![Complete project](images/showcase_static.png)
---- /print-only ---
+### What you will learn
 
---- collapse ---
----
-title: What you will need
----
-### Hardware
+By making your turtle race game, you will learn how to:
 
-+ Describe hardware here
++ Write `for` loops in Python
++ Use random numbers in Python
++ Draw lines in different colours with Python Turtle
 
-### Software
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
 
-+ Scratch 2.0 (either [online](http://rpf.io/scratchon) or [offline](http://rpf.io/scratchoff))
-+ Python 3
-+ This project can be completed in a web browser using [trinket.io](https://trinket.io/)
++ [Use basic programming constructs to create simple programs.](https://www.raspberrypi.org/curriculum/programming/creator/){:target="_blank"}
 
-### Downloads
+![iDEA](images/idea.png)
 
-+ [rpf.io/project-name-go](http://rpf.io/project-name-go){:target="_blank"}
+Completion of this project will earn you points towards your bronze "Digital Maker" iDEA badge. For more information, visit [idea.org.uk](https://idea.org.uk).
 
---- /collapse ---
+### Additional information for educators
 
---- collapse ---
----
-title: What you will learn
----
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/turtle-race/print){:target="_blank"}.
 
-+ Two or three learning objectives
-+ ...should go here
+Use the link in the footer to access the GitHub repository for this project, which contains all resources (including an example finished project) in the 'en/resources' folder.
 
---- /collapse ---
+### Additional information for club leaders
 
---- collapse ---
----
-title: Additional information for educators
----
-
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/project-name/print){:target="_blank"}.
-
-[Here is a link to the resources for this project](http://rpf.io/project-name-go).
-
---- /collapse ---
+If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/turtle-race/print).
