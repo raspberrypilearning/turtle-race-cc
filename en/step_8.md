@@ -11,3 +11,5 @@ Go to the 'Skills in Careers' activity and then on to the next project on the mo
 
 
 --- /challenge ---
+
+![progress bar](images/p1-3.png)
