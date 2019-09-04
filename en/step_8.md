@@ -13,3 +13,8 @@ Go to the 'Skills in Careers' activity and then on to the next project on the mo
 --- /challenge ---
 
 ![progress bar](images/p1-3.png)
+
+Click on the 'Click me' button to try the next project:
+
+<a href="https://codeclub.org/en/python1">
+<img src="images/Clickme.png">
